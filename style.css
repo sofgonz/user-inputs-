@@ -1,0 +1,13 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  background-color: #b0bec5
+}
+
+button {
+  ::selection {
+    color: red; 
+    background: yellow;
+  }
